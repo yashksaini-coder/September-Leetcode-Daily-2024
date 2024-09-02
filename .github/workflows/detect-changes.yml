@@ -2,6 +2,7 @@
 name: Detect Changes and Trigger Workflow
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main  # Change this to the branch you want to monitor
