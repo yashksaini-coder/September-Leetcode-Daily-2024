@@ -1,2 +1,3 @@
 1894-find-the-student-that-will-replace-the-chalk|Medium|1725215400000
 1945-sum-of-digits-of-string-after-convert|Easy|1725301800000
+874-walking-robot-simulation|Medium|1725388200000
