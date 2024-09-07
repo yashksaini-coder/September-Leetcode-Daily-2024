@@ -3,3 +3,4 @@
 874-walking-robot-simulation|Medium|1725388200000
 2028-find-missing-observations|Medium|1725474600000
 3217-delete-nodes-from-linked-list-present-in-array|Medium|1725561000000
+1367-linked-list-in-binary-tree|Medium|1725647400000
