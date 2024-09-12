@@ -8,3 +8,4 @@
 2326-spiral-matrix-iv|Medium|1725820200000
 2807-insert-greatest-common-divisors-in-linked-list|Medium|1725906600000
 2220-minimum-bit-flips-to-convert-number|Easy|1725993000000
+1684-count-the-number-of-consistent-strings|Easy|1726079400000
