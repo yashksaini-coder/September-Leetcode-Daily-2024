@@ -35,12 +35,8 @@
 </div>
 <br>
 
+<div align="center">
 ## Solutions
-
-
-
-
-
 
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
@@ -64,3 +60,4 @@
 <!-- SOLUTIONS TABLE END -->
 
 <br>
+</div>
