@@ -56,7 +56,10 @@ const toc = async () => {
     }).join(" ");
     name = name.charAt(0).toUpperCase() + name.slice(1);
     var num = key;
-    solutionsTable += `| [${num}](https://leetcode.com/problems/${str.slice(1).join("-")}/) | ${name} | [Solution](./${str.join("-")}/${str.join("-")}.java) |\n`;
+    var folderName = str.join("-");
+    var fileName = str.slice(1).join("-") + ".java";
+    var solutionPath = `https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/${folderName}/${fileName}`;
+    solutionsTable += `| [${num}](https://leetcode.com/problems/${str.slice(1).join("-")}/) | ${name} | [Solution](${solutionPath}) |\n`;
   }
   solutionsTable += "<!-- SOLUTIONS TABLE END -->";
 
