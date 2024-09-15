@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const toc = async () => {
-  // Fetch from the GitHubAPI
+  // Fetch from API
   const data = await fetch(
     "https://api.github.com/repos/yashksaini-coder/September-Leetcode-Daily-2024/contents?ref=main"
   )
@@ -44,27 +44,35 @@ const toc = async () => {
 `;
   for (var key in sorted) {
     var str = sorted[key].split("-");
-    var name = str.slice(1).join(" ");
+    var name = str.slice(1).map(word => {
+      const lowerCaseWord = word.toLowerCase();
+      if (["in", "of", "for", "and", "or", "the", "a", "an", "to", "by", "at", "from", "on", "off", "up", "down", "over", "under", "again", "further", "then", "once", "here", "there", "when", "where", "why", "how", "all", "any", "both", "each", "few", "more", "most", "other", "some", "such", "no", "nor", "not", "only", "own", "same", "so", "than", "too", "very", "s", "t", "can", "will", "just", "don", "should", "now"].includes(lowerCaseWord)) {
+        return lowerCaseWord;
+      } else if (lowerCaseWord.startsWith("i") && lowerCaseWord.length <= 3) {
+        return lowerCaseWord.toUpperCase();
+      } else {
+        return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+      }
+    }).join(" ");
+    name = name.charAt(0).toUpperCase() + name.slice(1);
     var num = key;
     solutionsTable += `| [${num}](https://leetcode.com/problems/${str.slice(1).join("-")}/) | ${name} | [Solution](./${str.join("-")}/${str.join("-")}.java) |\n`;
   }
   solutionsTable += "<!-- SOLUTIONS TABLE END -->";
 
-  // Use path.join to create the correct path to README.md
-  const readmePath = path.join(__dirname, "..", "README.md");
-
   // Read the existing README content
+  const readmePath = path.join(__dirname, "..", "README.md");
   let readmeContent = fs.readFileSync(readmePath, "utf8");
 
-  // Checking whether the solutions table already exists
+  // Check if the solutions table already exists
   if (readmeContent.includes("<!-- SOLUTIONS TABLE BEGIN -->")) {
-    // Replacing the existing table
+    // Replace the existing table
     readmeContent = readmeContent.replace(
       /<!-- SOLUTIONS TABLE BEGIN -->[\s\S]*<!-- SOLUTIONS TABLE END -->/,
       solutionsTable
     );
   } else {
-    // Find the "## Solutions" heading and insert the table after it. It is necessary the heading matches exactly.
+    // Find the "## Solutions" heading and insert the table after it
     const solutionsHeading = "## Solutions";
     const headingIndex = readmeContent.indexOf(solutionsHeading);
     if (headingIndex !== -1) {
