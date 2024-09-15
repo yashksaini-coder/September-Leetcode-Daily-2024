@@ -1,5 +1,10 @@
 import fetch from "node-fetch";
 import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const toc = async () => {
   // Fetch from the GitHubAPI
@@ -45,8 +50,11 @@ const toc = async () => {
   }
   solutionsTable += "<!-- SOLUTIONS TABLE END -->";
 
+  // Use path.join to create the correct path to README.md
+  const readmePath = path.join(__dirname, "..", "README.md");
+
   // Read the existing README content
-  let readmeContent = fs.readFileSync("README.md", "utf8");
+  let readmeContent = fs.readFileSync(readmePath, "utf8");
 
   // Checking whether the solutions table already exists
   if (readmeContent.includes("<!-- SOLUTIONS TABLE BEGIN -->")) {
@@ -69,7 +77,7 @@ const toc = async () => {
   }
 
   // Write the updated content back to README.md
-  fs.writeFileSync("README.md", readmeContent);
+  fs.writeFileSync(readmePath, readmeContent);
   console.log("README.md has been updated with the solutions table!");
 };
 
