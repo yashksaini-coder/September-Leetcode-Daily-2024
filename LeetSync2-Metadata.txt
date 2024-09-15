@@ -11,3 +11,4 @@
 1684-count-the-number-of-consistent-strings|Easy|1726079400000
 1310-xor-queries-of-a-subarray|Medium|1726165800000
 2419-longest-subarray-with-maximum-bitwise-and|Medium|1726252200000
+1371-find-the-longest-substring-containing-vowels-in-even-counts|Medium|1726338600000
