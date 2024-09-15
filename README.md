@@ -37,7 +37,26 @@
 
 ## Solutions
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
+| Leetcode Problem | Problem Statement | Solution |
+|---:|:-----|:----:|
+| [725](https://leetcode.com/problems/split-linked-list-in-parts/) | split linked list in parts | [Solution](./725-split-linked-list-in-parts/725-split-linked-list-in-parts.java) |
+| [874](https://leetcode.com/problems/walking-robot-simulation/) | walking robot simulation | [Solution](./874-walking-robot-simulation/874-walking-robot-simulation.java) |
+| [1310](https://leetcode.com/problems/xor-queries-of-a-subarray/) | xor queries of a subarray | [Solution](./1310-xor-queries-of-a-subarray/1310-xor-queries-of-a-subarray.java) |
+| [1367](https://leetcode.com/problems/linked-list-in-binary-tree/) | linked list in binary tree | [Solution](./1367-linked-list-in-binary-tree/1367-linked-list-in-binary-tree.java) |
+| [1371](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | find the longest substring containing vowels in even counts | [Solution](./1371-find-the-longest-substring-containing-vowels-in-even-counts/1371-find-the-longest-substring-containing-vowels-in-even-counts.java) |
+| [1684](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | count the number of consistent strings | [Solution](./1684-count-the-number-of-consistent-strings/1684-count-the-number-of-consistent-strings.java) |
+| [1894](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | find the student that will replace the chalk | [Solution](./1894-find-the-student-that-will-replace-the-chalk/1894-find-the-student-that-will-replace-the-chalk.java) |
+| [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | sum of digits of string after convert | [Solution](./1945-sum-of-digits-of-string-after-convert/1945-sum-of-digits-of-string-after-convert.java) |
+| [2028](https://leetcode.com/problems/find-missing-observations/) | find missing observations | [Solution](./2028-find-missing-observations/2028-find-missing-observations.java) |
+| [2132](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | convert 1d array into 2d array | [Solution](./2132-convert-1d-array-into-2d-array/2132-convert-1d-array-into-2d-array.java) |
+| [2220](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | minimum bit flips to convert number | [Solution](./2220-minimum-bit-flips-to-convert-number/2220-minimum-bit-flips-to-convert-number.java) |
+| [2326](https://leetcode.com/problems/spiral-matrix-iv/) | spiral matrix iv | [Solution](./2326-spiral-matrix-iv/2326-spiral-matrix-iv.java) |
+| [2419](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | longest subarray with maximum bitwise and | [Solution](./2419-longest-subarray-with-maximum-bitwise-and/2419-longest-subarray-with-maximum-bitwise-and.java) |
+| [2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | insert greatest common divisors in linked list | [Solution](./2807-insert-greatest-common-divisors-in-linked-list/2807-insert-greatest-common-divisors-in-linked-list.java) |
+| [3217](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | delete nodes from linked list present in array | [Solution](./3217-delete-nodes-from-linked-list-present-in-array/3217-delete-nodes-from-linked-list-present-in-array.java) |
+| [NaN](https://leetcode.com/problems//) |  | [Solution](./scripts/scripts.java) |
 <!-- SOLUTIONS TABLE END -->
 
 <br>
