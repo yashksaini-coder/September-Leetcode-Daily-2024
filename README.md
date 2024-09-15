@@ -36,6 +36,7 @@
 <br>
 
 <div align="center">
+
 ## Solutions
 
 <!-- SOLUTIONS TABLE BEGIN -->
