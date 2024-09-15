@@ -3,3 +3,12 @@ description: A Repository to maintain my September Leetcode Coding session 2024
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-relative-links
+markdown: GFM
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - LICENSE
