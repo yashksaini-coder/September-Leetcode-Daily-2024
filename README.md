@@ -41,25 +41,26 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
-| [725](https://leetcode.com/problems/split-linked-list-in-parts/) | Split Linked List in Parts | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/725-split-linked-list-in-parts/split-linked-list-in-parts.java) |
-| [874](https://leetcode.com/problems/walking-robot-simulation/) | Walking Robot Simulation | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/874-walking-robot-simulation/walking-robot-simulation.java) |
-| [1310](https://leetcode.com/problems/xor-queries-of-a-subarray/) | Xor Queries of a Subarray | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/1310-xor-queries-of-a-subarray/xor-queries-of-a-subarray.java) |
-| [1367](https://leetcode.com/problems/linked-list-in-binary-tree/) | Linked List in Binary Tree | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/1367-linked-list-in-binary-tree/linked-list-in-binary-tree.java) |
-| [1371](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | Find the Longest Substring Containing Vowels in Even Counts | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/find-the-longest-substring-containing-vowels-in-even-counts.java) |
-| [1684](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | Count the Number of Consistent Strings | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/1684-count-the-number-of-consistent-strings/count-the-number-of-consistent-strings.java) |
-| [1894](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | Find the Student That will Replace the Chalk | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/1894-find-the-student-that-will-replace-the-chalk/find-the-student-that-will-replace-the-chalk.java) |
-| [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | Sum of Digits of String After Convert | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/1945-sum-of-digits-of-string-after-convert/sum-of-digits-of-string-after-convert.java) |
-| [2028](https://leetcode.com/problems/find-missing-observations/) | Find Missing Observations | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/2028-find-missing-observations/find-missing-observations.java) |
-| [2132](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | Convert 1d Array Into 2d Array | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/2132-convert-1d-array-into-2d-array/convert-1d-array-into-2d-array.java) |
-| [2220](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Minimum Bit Flips to Convert Number | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/2220-minimum-bit-flips-to-convert-number/minimum-bit-flips-to-convert-number.java) |
-| [2326](https://leetcode.com/problems/spiral-matrix-iv/) | Spiral Matrix IV | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/2326-spiral-matrix-iv/spiral-matrix-iv.java) |
-| [2419](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | Longest Subarray With Maximum Bitwise and | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/2419-longest-subarray-with-maximum-bitwise-and/longest-subarray-with-maximum-bitwise-and.java) |
-| [2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | Insert Greatest Common Divisors in Linked List | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/2807-insert-greatest-common-divisors-in-linked-list/insert-greatest-common-divisors-in-linked-list.java) |
-| [3217](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Delete Nodes from Linked List Present in Array | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/3217-delete-nodes-from-linked-list-present-in-array/delete-nodes-from-linked-list-present-in-array.java) |
-| [NaN](https://leetcode.com/problems//) |  | [Solution](https://github.com/yashksaini-coder/September-Leetcode-Daily-2024/blob/main/scripts/.java) |
+| [725](https://leetcode.com/problems/split-linked-list-in-parts/) | Split Linked List in Parts | [Solution](./725-split-linked-list-in-parts/split-linked-list-in-parts.java) |
+| [874](https://leetcode.com/problems/walking-robot-simulation/) | Walking Robot Simulation | [Solution](./874-walking-robot-simulation/walking-robot-simulation.java) |
+| [1310](https://leetcode.com/problems/xor-queries-of-a-subarray/) | Xor Queries of a Subarray | [Solution](./1310-xor-queries-of-a-subarray/xor-queries-of-a-subarray.java) |
+| [1367](https://leetcode.com/problems/linked-list-in-binary-tree/) | Linked List in Binary Tree | [Solution](./1367-linked-list-in-binary-tree/linked-list-in-binary-tree.java) |
+| [1371](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | Find the Longest Substring Containing Vowels in Even Counts | [Solution](./1371-find-the-longest-substring-containing-vowels-in-even-counts/find-the-longest-substring-containing-vowels-in-even-counts.java) |
+| [1684](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | Count the Number of Consistent Strings | [Solution](./1684-count-the-number-of-consistent-strings/count-the-number-of-consistent-strings.java) |
+| [1894](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | Find the Student That will Replace the Chalk | [Solution](./1894-find-the-student-that-will-replace-the-chalk/find-the-student-that-will-replace-the-chalk.java) |
+| [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | Sum of Digits of String After Convert | [Solution](./1945-sum-of-digits-of-string-after-convert/sum-of-digits-of-string-after-convert.java) |
+| [2028](https://leetcode.com/problems/find-missing-observations/) | Find Missing Observations | [Solution](./2028-find-missing-observations/find-missing-observations.java) |
+| [2132](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | Convert 1d Array Into 2d Array | [Solution](./2132-convert-1d-array-into-2d-array/convert-1d-array-into-2d-array.java) |
+| [2220](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | Minimum Bit Flips to Convert Number | [Solution](./2220-minimum-bit-flips-to-convert-number/minimum-bit-flips-to-convert-number.java) |
+| [2326](https://leetcode.com/problems/spiral-matrix-iv/) | Spiral Matrix IV | [Solution](./2326-spiral-matrix-iv/spiral-matrix-iv.java) |
+| [2419](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | Longest Subarray With Maximum Bitwise and | [Solution](./2419-longest-subarray-with-maximum-bitwise-and/longest-subarray-with-maximum-bitwise-and.java) |
+| [2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | Insert Greatest Common Divisors in Linked List | [Solution](./2807-insert-greatest-common-divisors-in-linked-list/insert-greatest-common-divisors-in-linked-list.java) |
+| [3217](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Delete Nodes from Linked List Present in Array | [Solution](./3217-delete-nodes-from-linked-list-present-in-array/delete-nodes-from-linked-list-present-in-array.java) |
+| [NaN](https://leetcode.com/problems//) |  | [Solution](./scripts/.java) |
 <!-- SOLUTIONS TABLE END -->
 
 <br>
