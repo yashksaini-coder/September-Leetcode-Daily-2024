@@ -39,8 +39,8 @@
 
 
 <!-- SOLUTIONS TABLE BEGIN -->
-| Leetcode Problem | Problem Statement | Solution |
-|---:|:-----|:----:|
+| Leetcode Problem | Problem Statement | Java Solution |
+|:---:|:-----|:----:|
 | [725](https://leetcode.com/problems/split-linked-list-in-parts/) | Split Linked List in Parts | [Solution](./725-split-linked-list-in-parts/split-linked-list-in-parts.java) |
 | [874](https://leetcode.com/problems/walking-robot-simulation/) | Walking Robot Simulation | [Solution](./874-walking-robot-simulation/walking-robot-simulation.java) |
 | [1310](https://leetcode.com/problems/xor-queries-of-a-subarray/) | Xor Queries of a Subarray | [Solution](./1310-xor-queries-of-a-subarray/xor-queries-of-a-subarray.java) |
