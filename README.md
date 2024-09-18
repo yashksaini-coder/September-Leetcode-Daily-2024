@@ -45,9 +45,11 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
+| [179](https://leetcode.com/problems/largest-number/) | Largest Number | [Solution](./179-largest-number/largest-number.java) |
 | [539](https://leetcode.com/problems/minimum-time-difference/) | Minimum Time Difference | [Solution](./539-minimum-time-difference/minimum-time-difference.java) |
 | [725](https://leetcode.com/problems/split-linked-list-in-parts/) | Split Linked List in Parts | [Solution](./725-split-linked-list-in-parts/split-linked-list-in-parts.java) |
 | [874](https://leetcode.com/problems/walking-robot-simulation/) | Walking Robot Simulation | [Solution](./874-walking-robot-simulation/walking-robot-simulation.java) |
