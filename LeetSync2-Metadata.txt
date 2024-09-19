@@ -15,3 +15,4 @@
 539-minimum-time-difference|Medium|1726425000000
 884-uncommon-words-from-two-sentences|Easy|1726511400000
 179-largest-number|Medium|1726597800000
+241-different-ways-to-add-parentheses|Medium|1726684200000
