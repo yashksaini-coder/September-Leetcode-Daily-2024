@@ -17,3 +17,4 @@
 179-largest-number|Medium|1726597800000
 241-different-ways-to-add-parentheses|Medium|1726684200000
 214-shortest-palindrome|Hard|1726770600000
+386-lexicographical-numbers|Medium|1726857000000
