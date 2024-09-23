@@ -19,3 +19,4 @@
 214-shortest-palindrome|Hard|1726770600000
 386-lexicographical-numbers|Medium|1726857000000
 440-k-th-smallest-in-lexicographical-order|Hard|1726943400000
+2707-extra-characters-in-a-string|Medium|1727029800000
