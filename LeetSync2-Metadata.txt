@@ -20,3 +20,4 @@
 386-lexicographical-numbers|Medium|1726857000000
 440-k-th-smallest-in-lexicographical-order|Hard|1726943400000
 2707-extra-characters-in-a-string|Medium|1727029800000
+3043-find-the-length-of-the-longest-common-prefix|Medium|1727116200000
