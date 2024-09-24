@@ -57,6 +57,7 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
@@ -82,6 +83,7 @@
 | [2419](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | Longest Subarray With Maximum Bitwise and | [Solution](./2419-longest-subarray-with-maximum-bitwise-and/longest-subarray-with-maximum-bitwise-and.java) |
 | [2707](https://leetcode.com/problems/extra-characters-in-a-string/) | Extra Characters in a String | [Solution](./2707-extra-characters-in-a-string/extra-characters-in-a-string.java) |
 | [2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | Insert Greatest Common Divisors in Linked List | [Solution](./2807-insert-greatest-common-divisors-in-linked-list/insert-greatest-common-divisors-in-linked-list.java) |
+| [3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | Find the Length of the Longest Common Prefix | [Solution](./3043-find-the-length-of-the-longest-common-prefix/find-the-length-of-the-longest-common-prefix.java) |
 | [3217](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | Delete Nodes from Linked List Present in Array | [Solution](./3217-delete-nodes-from-linked-list-present-in-array/delete-nodes-from-linked-list-present-in-array.java) |
 | [NaN](https://leetcode.com/problems//) |  | [Solution](./scripts/.java) |
 <!-- SOLUTIONS TABLE END -->
