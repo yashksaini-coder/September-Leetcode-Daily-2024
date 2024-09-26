@@ -61,6 +61,7 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
@@ -71,6 +72,7 @@
 | [440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | K Th Smallest in Lexicographical Order | [Solution](./440-k-th-smallest-in-lexicographical-order/k-th-smallest-in-lexicographical-order.java) |
 | [539](https://leetcode.com/problems/minimum-time-difference/) | Minimum Time Difference | [Solution](./539-minimum-time-difference/minimum-time-difference.java) |
 | [725](https://leetcode.com/problems/split-linked-list-in-parts/) | Split Linked List in Parts | [Solution](./725-split-linked-list-in-parts/split-linked-list-in-parts.java) |
+| [729](https://leetcode.com/problems/my-calendar-i/) | My Calendar I | [Solution](./729-my-calendar-i/my-calendar-i.java) |
 | [874](https://leetcode.com/problems/walking-robot-simulation/) | Walking Robot Simulation | [Solution](./874-walking-robot-simulation/walking-robot-simulation.java) |
 | [884](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | Uncommon Words from Two Sentences | [Solution](./884-uncommon-words-from-two-sentences/uncommon-words-from-two-sentences.java) |
 | [1310](https://leetcode.com/problems/xor-queries-of-a-subarray/) | Xor Queries of a Subarray | [Solution](./1310-xor-queries-of-a-subarray/xor-queries-of-a-subarray.java) |
