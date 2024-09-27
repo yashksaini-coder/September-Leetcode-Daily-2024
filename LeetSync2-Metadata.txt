@@ -23,3 +23,4 @@
 3043-find-the-length-of-the-longest-common-prefix|Medium|1727116200000
 2416-sum-of-prefix-scores-of-strings|Hard|1727202600000
 729-my-calendar-i|Medium|1727289000000
+731-my-calendar-ii|Medium|1727375400000
