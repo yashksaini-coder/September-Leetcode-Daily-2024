@@ -67,6 +67,7 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
@@ -74,6 +75,7 @@
 | [214](https://leetcode.com/problems/shortest-palindrome/) | Shortest Palindrome | [Solution](./214-shortest-palindrome/shortest-palindrome.java) |
 | [241](https://leetcode.com/problems/different-ways-to-add-parentheses/) | Different Ways to Add Parentheses | [Solution](./241-different-ways-to-add-parentheses/different-ways-to-add-parentheses.java) |
 | [386](https://leetcode.com/problems/lexicographical-numbers/) | Lexicographical Numbers | [Solution](./386-lexicographical-numbers/lexicographical-numbers.java) |
+| [432](https://leetcode.com/problems/all-oone-data-structure/) | All Oone Data Structure | [Solution](./432-all-oone-data-structure/all-oone-data-structure.java) |
 | [440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | K Th Smallest in Lexicographical Order | [Solution](./440-k-th-smallest-in-lexicographical-order/k-th-smallest-in-lexicographical-order.java) |
 | [539](https://leetcode.com/problems/minimum-time-difference/) | Minimum Time Difference | [Solution](./539-minimum-time-difference/minimum-time-difference.java) |
 | [641](https://leetcode.com/problems/design-circular-deque/) | Design Circular Deque | [Solution](./641-design-circular-deque/design-circular-deque.java) |
