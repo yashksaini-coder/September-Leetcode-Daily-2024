@@ -69,6 +69,7 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
@@ -88,6 +89,7 @@
 | [1310](https://leetcode.com/problems/xor-queries-of-a-subarray/) | Xor Queries of a Subarray | [Solution](./1310-xor-queries-of-a-subarray/xor-queries-of-a-subarray.java) |
 | [1367](https://leetcode.com/problems/linked-list-in-binary-tree/) | Linked List in Binary Tree | [Solution](./1367-linked-list-in-binary-tree/linked-list-in-binary-tree.java) |
 | [1371](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | Find the Longest Substring Containing Vowels in Even Counts | [Solution](./1371-find-the-longest-substring-containing-vowels-in-even-counts/find-the-longest-substring-containing-vowels-in-even-counts.java) |
+| [1381](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | Design a Stack With Increment Operation | [Solution](./1381-design-a-stack-with-increment-operation/design-a-stack-with-increment-operation.java) |
 | [1684](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | Count the Number of Consistent Strings | [Solution](./1684-count-the-number-of-consistent-strings/count-the-number-of-consistent-strings.java) |
 | [1894](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | Find the Student That will Replace the Chalk | [Solution](./1894-find-the-student-that-will-replace-the-chalk/find-the-student-that-will-replace-the-chalk.java) |
 | [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | Sum of Digits of String After Convert | [Solution](./1945-sum-of-digits-of-string-after-convert/sum-of-digits-of-string-after-convert.java) |
