@@ -27,3 +27,4 @@
 641-design-circular-deque|Medium|1727461800000
 432-all-oone-data-structure|Hard|1727548200000
 1381-design-a-stack-with-increment-operation|Medium|1727634600000
+2938-separate-black-and-white-balls|Medium|1728930600000
